@@ -25,19 +25,6 @@ I love mixing **web backends**, **DevOps**, and **low-level firmware tools** –
 
 ---
 
-### 🚀 Projects I’m proud of
-
-- [**robyn-config**](https://github.com/Lehsqa/robyn-config)  
-  🧩 Production-ready Robyn backend boilerplate generator with multiple architectures, ORM support, and batteries-included tooling.
-
-- [**CodeReviewAI**](https://github.com/Lehsqa/CodeReviewAI)  
-  🤖 Backend application for automated code review powered by different LLM models.
-
-- [**minecoin**](https://github.com/Lehsqa/minecoin)  
-  ⛏️ Blockchain application built from scratch for Minecraft servers.
-
----
-
 ### 🎯 Connect with me
 
 - 🐦 X (Twitter): [@Leshqa_Random](https://x.com/Leshqa_Random)
