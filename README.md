@@ -25,13 +25,6 @@ I love mixing **web backends**, **DevOps**, and **low-level firmware tools** –
 
 ---
 
-### 🎯 Connect with me
-
-- 🐦 X (Twitter): [@Leshqa_Random](https://x.com/Leshqa_Random)
-- 💼 LinkedIn: [Sviatoslav Romanenko](https://www.linkedin.com/in/%D1%81%D0%B2%D1%8F%D1%82%D0%BE%D1%81%D0%BB%D0%B0%D0%B2-%D1%80%D0%BE%D0%BC%D0%B0%D0%BD%D0%B5%D0%BD%D0%BA%D0%BE-77237b15a/)
-
----
-
 ### 🎲 Fun Facts
 
 - 🏓 I love **table tennis** and **tennis**
